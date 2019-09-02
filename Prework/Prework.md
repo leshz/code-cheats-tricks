@@ -1,6 +1,6 @@
 # Plugin de Git en zsh
 
-Al instalar [Zsh](https://ohmyz.sh), nos instala por defecto el plugin de **GIT**, este plugin contiene una serie de alias o formas abreviadas para ejecutar git por la consola.
+Al instalar [Zsh](https://ohmyz.sh), por defecto nos trae el plugin de **GIT**, este plugin contiene una serie de alias o formas abreviadas para ejecutar git por la consola.
 
 Si queremos ver cuantos alias nos ofrece , en la consola escribimos
 
@@ -44,7 +44,7 @@ alias c="clear"
 
 ```
 
-Tambien podemos unir la ejecuccion de los comando conectandolos con el operador && , este operador ejecuta el comando sigueinte , cuando el anterior termine de ejecutarse.
+Tambien podemos unir la ejecuccion de los comando conectandolos con el operador && , este operador ejecuta el comando siguiente , cuando el anterior termine de ejecutarse.
 
 Un ejemplo :
 
